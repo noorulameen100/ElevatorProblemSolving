@@ -1,0 +1,6 @@
+D:\_Noorul\GitTraining\ElevatorProblemSolving\ElevatorSolution\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\_Noorul\GitTraining\ElevatorProblemSolving\ElevatorSolution\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\_Noorul\GitTraining\ElevatorProblemSolving\ElevatorSolution\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\_Noorul\GitTraining\ElevatorProblemSolving\ElevatorSolution\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\_Noorul\GitTraining\ElevatorProblemSolving\ElevatorSolution\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\_Noorul\GitTraining\ElevatorProblemSolving\ElevatorSolution\BusinessLogic\obj\Debug\BusinessLogic.pdb
